@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "9bd9",
+      "fullName": "sam",
+      "email": "sam@gmail.com",
+      "password": "sam123"
+    },
+    {
+      "id": "4a63",
+      "fullName": "sam",
+      "email": "sam@gmail.com",
+      "password": "sam123"
+    },
+    {
+      "id": "0990",
+      "fullName": "ask",
+      "email": "test1@gmail.com",
+      "password": "test123"
+    },
+    {
+      "id": "ed19",
+      "fullName": "tes",
+      "email": "wer@gmail.com",
+      "password": "123"
+    }
+  ]
+}
